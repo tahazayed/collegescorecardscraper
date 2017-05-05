@@ -1,0 +1,11 @@
+*.log
+.DS_Store
+__pycache__
+**/__pycache__/**
+*.csv
+*.xls
+*.xml
+
+
+
+
