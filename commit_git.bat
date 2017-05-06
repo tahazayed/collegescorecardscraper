@@ -4,5 +4,5 @@ git push
 
 @echo delpoy heroku
 rem git push heroku master
-rem scrapy crawl collegescorecardspider -t xml -o results.xls
+rem scrapy crawl collegescorecardspider -t xml -o collegescorecard.xls
 pause
